@@ -119,6 +119,6 @@ Contribuições são bem-vindas! Siga os passos abaixo:
 
 ## Contato
 
-- **LinkedIn:** [Seu Nome](link-do-seu-linkedin)  
-- **Portfólio:** [GitHub](link-do-seu-github)  
-- **E-mail:** seu-email@example.com  
+- **LinkedIn:** [Rafael Santos](https://www.linkedin.com/in/rafaelsantosti/)  
+- **Portfólio:** [GitHub](https://github.com/knotheadmetal)  
+- **E-mail:** [rafaelsantosti@outlook.com](mailto:rafaelsantosti@outlook.com)  
